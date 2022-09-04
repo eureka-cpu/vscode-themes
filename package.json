@@ -1,0 +1,21 @@
+{
+  "name": "ayu-x-color-theme",
+  "displayName": "Ayu-x",
+  "description": "A sight for sore eyes..",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ayu-x",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ayu-x-color-theme.json"
+      }
+    ]
+  }
+}
