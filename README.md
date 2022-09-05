@@ -1,4 +1,9 @@
-# Theme Installation
+# _ayu_x_
+
+![screenshot1](./ayu_x/images/Screen%20Shot%202022-09-04%20at%208.23.03%20PM.png)
+![screenshot2](./ayu_x/images/Screen%20Shot%202022-09-04%20at%208.24.18%20PM.png)
+
+## Theme Installation
 
 ```sh
 # clone the repository
