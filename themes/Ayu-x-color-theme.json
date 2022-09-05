@@ -806,7 +806,6 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "normal",
         "foreground": "#ffb454"
       }
     },
@@ -1743,6 +1742,13 @@
       "settings": {
         "fontStyle": "italic"
       }
+    },
+    {
+      "name": "json key value pairs",
+      "scope": "support.type.property-name.json.comments",
+      "settings": {
+        "foreground": "#fc7532"
+      }
     }
   ],
   "colors": {
@@ -1849,8 +1855,7 @@
     "editorBracketMatch.background": "#0064001a",
     "editorBracketMatch.border": "#888888",
     "editor.foldBackground": "#264f784d",
-    "editorOverviewRuler.background": "#25252500",
-    "editorOverviewRuler.border": "#7f7f7f4d",
+    "editorOverviewRuler.border": "#7f7f7f3a",
     "editorError.foreground": "#f48771",
     "editorError.background": "#B73A3400",
     "editorError.border": "#ffffff00",
@@ -1909,14 +1914,8 @@
     "tab.activeBorderTop": "#00000000",
     "tab.inactiveBackground": "#0d1117",
     "tab.inactiveForeground": "#4b4b52",
-    "scrollbarSlider.background": "#11111176",
-    "scrollbarSlider.hoverBackground": "#11111158",
-    "scrollbarSlider.activeBackground": "#11111146",
     "editorStickyScroll.background": "#11111176",
     "editorStickyScrollHover.background": "#11111158",
-    "notebookScrollbarSlider.background": "#11111176",
-    "notebookScrollbarSlider.hoverBackground": "#11111158",
-    "notebookScrollbarSlider.activeBackground": "#11111146",
     "progressBar.background": "#e5b350",
     "widget.shadow": "#0000005c",
     "editorWidget.foreground": "#4b4b52",
@@ -2002,6 +2001,12 @@
     "breadcrumb.activeSelectionForeground": "#e0e0e0",
     "editorGutter.commentRangeForeground": "#c5c5c5",
     "debugExceptionWidget.background": "#14191f",
-    "debugExceptionWidget.border": "#14191f"
+    "debugExceptionWidget.border": "#14191f",
+    "scrollbarSlider.background": "#11111176",
+    "scrollbarSlider.hoverBackground": "#11111158",
+    "scrollbarSlider.activeBackground": "#11111146",
+    "notebookScrollbarSlider.background": "#11111176",
+    "notebookScrollbarSlider.hoverBackground": "#11111158",
+    "notebookScrollbarSlider.activeBackground": "#11111146"
   }
 }
