@@ -9,7 +9,7 @@
 # clone the repository
 git clone https://github.com/eureka-cpu/vscode-themes.git
 # copy theme into vs code extensions
-cp -R ~/vscode-themes/ayu_x ~/.vscode/extensions
+cp -R ~/vscode-themes/ayu_x ~/.vscode/extensions/
 # restart vs code and choose theme
 ```
 
